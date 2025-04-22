@@ -13,6 +13,7 @@
     "llama.rn": "^0.5.8",
     "react": "19.0.0",
     "react-native": "0.79.1",
+    "react-native-fs": "^2.20.0",
     "react-native-gifted-chat": "^2.8.1",
     "react-native-keyboard-controller": "^1.17.1",
     "react-native-reanimated": "^3.17.4"
