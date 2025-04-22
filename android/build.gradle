@@ -19,3 +19,4 @@ buildscript {
 }
 
 apply plugin: "com.facebook.react.rootproject"
+// Windows path length workaround is now handled differently

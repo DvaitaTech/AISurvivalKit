@@ -1,0 +1,24 @@
+{
+  "installationFolder": "C:\\Users\\saura\\code\\dvaita\\AISurvivalKit\\android\\gradlebuild\\react-native-reanimated\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":react-native-reanimated",
+  "packageInfo": {
+    "packageName": "react-native-reanimated",
+    "packageVersion": "3.17.4",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "reanimated",
+        "moduleHeaders": "C:\\Users\\saura\\code\\dvaita\\AISurvivalKit\\android\\gradlebuild\\react-native-reanimated\\prefab-headers\\reanimated",
+        "moduleExportLibraries": [],
+        "abis": []
+      },
+      {
+        "moduleName": "worklets",
+        "moduleHeaders": "C:\\Users\\saura\\code\\dvaita\\AISurvivalKit\\android\\gradlebuild\\react-native-reanimated\\prefab-headers\\worklets",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}
